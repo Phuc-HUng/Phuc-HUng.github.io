@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    width: 100%;
+    margin: 0 20px;
+}
+header{
+    height: 150px;
+    background-color: aqua;
+}
+header img{
+    padding: 150px;
+    width: 250px;
+}
+nav{
+    height: 100px;
+    background-color: rgb(3, 7, 1);
+}
+nav .menu ul{
+    list-style: none;
+}
+nav .menu ul li{
+    float: left;
+    line-height: 50px;
+    padding: 0 20px;
+}
+nav .menu ul li a{
+   color: white;
+   font-size: 13px;
+   text-decoration: none;
+}
+header img{
+    line-height: 100px;
+    padding: 20px 50px;
+}
+main{
+    height: 500px;
+    background-color: rgb(243, 17, 17);
+}
+footer{
+    height: 200px;
+    background-color: rgb(38, 0, 255);
+}
